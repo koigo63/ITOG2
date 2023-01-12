@@ -1,0 +1,15 @@
+C:\Itogi\ITOG2\Home1\bin\Debug\net6.0\Home1.exe
+C:\Itogi\ITOG2\Home1\bin\Debug\net6.0\Home1.deps.json
+C:\Itogi\ITOG2\Home1\bin\Debug\net6.0\Home1.runtimeconfig.json
+C:\Itogi\ITOG2\Home1\bin\Debug\net6.0\Home1.dll
+C:\Itogi\ITOG2\Home1\bin\Debug\net6.0\Home1.pdb
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.csproj.AssemblyReference.cache
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.AssemblyInfoInputs.cache
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.AssemblyInfo.cs
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.csproj.CoreCompileInputs.cache
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.dll
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\refint\Home1.dll
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.pdb
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\Home1.genruntimeconfig.cache
+C:\Itogi\ITOG2\Home1\obj\Debug\net6.0\ref\Home1.dll
