@@ -2,10 +2,16 @@
 string[] CreateRandomArray(string[] strings)
 {
     string[] myArray = new string[strings.Length];
+    int j = 0;
     for (int i = 0; i < strings.Length; i++)
     {
         if (strings[i].Length < 4)
-            myArray[i] = strings[i] + " ";
+        {
+            myArray[j] = strings[i];
+            j = j + 1;
+        }
+        else
+        { }
     }
     return myArray;
 }
@@ -15,7 +21,7 @@ void ShowArray(string[] array)
     Console.WriteLine("Полученный массив->");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i]);
+        Console.Write(array[i] + " ");
     }
     Console.WriteLine();
 }
