@@ -1,12 +1,10 @@
-﻿string[] strings = { "qqq", "wwww", "eeee", "rr", "t", "yy" };
+﻿string[] strings = { "qqq", "ww", "eeee", "rr", "t", "yyyyy" };
 string[] CreateRandomArray(string[] strings)
 {
     string[] myArray = new string[strings.Length];
     for (int i = 0; i < strings.Length; i++)
     {
-        string stroka = Convert.ToString(strings[i]);
-        int strLen = stroka.Length;
-        if (strLen < 4)
+        if (strings[i].Length < 4)
             myArray[i] = strings[i] + " ";
     }
     return myArray;
