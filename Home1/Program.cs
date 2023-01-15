@@ -1,13 +1,13 @@
-﻿string[] strings = { "qq", "ww", "ee", "rr", "tt", "yy" };
+﻿string[] strings = { "qqq", "wwww", "eeee", "rr", "t", "yy" };
 string[] CreateRandomArray(string[] strings)
 {
-    int numb = new Random().Next(0, 4);
-    string[] myArray = new string[numb];
-    Console.WriteLine($" N= {numb} ");
-    for (int i = 0; i < numb; i++)
+    string[] myArray = new string[strings.Length];
+    for (int i = 0; i < strings.Length; i++)
     {
-        int j = new Random().Next(0, strings.Length - 1);
-        myArray[i] = strings[j];
+        string stroka = Convert.ToString(strings[i]);
+        int strLen = stroka.Length;
+        if (strLen < 4)
+            myArray[i] = strings[i] + " ";
     }
     return myArray;
 }
@@ -17,7 +17,7 @@ void ShowArray(string[] array)
     Console.WriteLine("Полученный массив->");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i] + " ");
+        Console.Write(array[i]);
     }
     Console.WriteLine();
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Itogi\\ITOG2\\Home1\\Home1.csproj": {}
+    "C:\\GFT\\ITOG2\\Home1\\Home1.csproj": {}
   },
   "projects": {
-    "C:\\Itogi\\ITOG2\\Home1\\Home1.csproj": {
+    "C:\\GFT\\ITOG2\\Home1\\Home1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Itogi\\ITOG2\\Home1\\Home1.csproj",
+        "projectUniqueName": "C:\\GFT\\ITOG2\\Home1\\Home1.csproj",
         "projectName": "Home1",
-        "projectPath": "C:\\Itogi\\ITOG2\\Home1\\Home1.csproj",
-        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-        "outputPath": "C:\\Itogi\\ITOG2\\Home1\\obj\\",
+        "projectPath": "C:\\GFT\\ITOG2\\Home1\\Home1.csproj",
+        "packagesPath": "C:\\Users\\sa\\.nuget\\packages\\",
+        "outputPath": "C:\\GFT\\ITOG2\\Home1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
